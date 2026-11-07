@@ -15,7 +15,7 @@ def build_spacecraft_json(start_id=-1, end_id=-300, output_filename="spacecraft_
         "Mercury": "@199",
         "Venus": "@299",
         "Earth": "@399",
-        "Moon (Earth's Moon)": "@301",
+        "Moon": "@301",
         "Mars": "@499",
         "Jupiter": "@599",
         "Saturn": "@699",
@@ -69,4 +69,4 @@ def build_spacecraft_json(start_id=-1, end_id=-300, output_filename="spacecraft_
 
 if __name__ == "__main__":
     # Adjust range as needed (e.g., -1 to -500)
-    build_spacecraft_json(start_id=-1, end_id=-300)
+    build_spacecraft_json(start_id=-1, end_id=-500)
