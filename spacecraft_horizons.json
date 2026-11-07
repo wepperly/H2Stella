@@ -1,0 +1,355 @@
+{
+    "_instructions": "Annotate 'parent_id' and 'parent_id_name' using the horizons_reference_mappings dictionary below.",
+    "horizons_reference_mappings": {
+        "SSB": "@0",
+        "Sun": "@10",
+        "Mercury": "@199",
+        "Venus": "@299",
+        "Earth": "@399",
+        "Moon (Earth's Moon)": "@301",
+        "Mars": "@499",
+        "Jupiter": "@599",
+        "Saturn": "@699",
+        "Uranus": "@799",
+        "Neptune": "@899",
+        "Pluto": "@999"
+    },
+    "spacecraft": [
+        {
+            "id": -8,
+            "name": "Wind",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -9,
+            "name": "ESCAPADE-Blue",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -10,
+            "name": "ESCAPADE-Gold",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -21,
+            "name": "SOHO",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -23,
+            "name": "Pioneer 10",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -24,
+            "name": "Pioneer 11",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -28,
+            "name": "JUICE",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -31,
+            "name": "Voyager 1",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -32,
+            "name": "Voyager 2",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -37,
+            "name": "Hayabusa 2",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -41,
+            "name": "Mars Express",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -43,
+            "name": "IMAP",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -48,
+            "name": "Hubble Space Telescope",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -49,
+            "name": "Lucy",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -53,
+            "name": "Mars Odyssey",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -55,
+            "name": "Ulysses",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -61,
+            "name": "Juno",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -62,
+            "name": "EMM",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -64,
+            "name": "OSIRIS-REx",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -74,
+            "name": "Mars Reconnaissance Orbiter",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -76,
+            "name": "Mars Science Laboratory",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -78,
+            "name": "DSCOVR",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -79,
+            "name": "Spitzer Space Telescope",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -85,
+            "name": "LRO",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -91,
+            "name": "Hera",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -92,
+            "name": "ACE",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -95,
+            "name": "TESS",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -96,
+            "name": "Parker Solar Probe",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -98,
+            "name": "New Horizons",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -121,
+            "name": "BepiColombo",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -135,
+            "name": "DART",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -143,
+            "name": "ExoMars16 TGO",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -144,
+            "name": "Solar Orbiter",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -151,
+            "name": "Chandra Observatory",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -152,
+            "name": "Chandrayaan-2",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -155,
+            "name": "Danuri",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -156,
+            "name": "Aditya-L1",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -159,
+            "name": "Europa Clipper",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -164,
+            "name": "Lunar Flashlight",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -170,
+            "name": "James Webb Space Telescope",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -171,
+            "name": "Carruthers Geocorona Observatory",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -176,
+            "name": "GRAIL-SS Second Stage",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -189,
+            "name": "InSight",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -192,
+            "name": "THEMIS-B",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -193,
+            "name": "THEMIS-C",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -198,
+            "name": "INTEGRAL",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -203,
+            "name": "Dawn",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -211,
+            "name": "Roman Space Telescope",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -227,
+            "name": "Kepler",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -231,
+            "name": "SWFO-L1",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -234,
+            "name": "STEREO-A",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -239,
+            "name": "MMX",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -242,
+            "name": "Lunar Trailblazer",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -253,
+            "name": "Opportunity",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -254,
+            "name": "Spirit",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        },
+        {
+            "id": -255,
+            "name": "Psyche",
+            "parent_id": "@0",
+            "parent_id_name": "Sun"
+        }
+    ]
+}
