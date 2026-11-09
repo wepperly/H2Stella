@@ -117,7 +117,7 @@ Once complete, copy the contents of the resulting file, into local Stellarium fi
 
 &#x09;In windows, file is locate in a hidden folder:
 
-&#x09;C:\\Users\\<YourUserName>\\AppData\\Roaming\\Stellarium\\data\\ssystem\_minor.ini
+&#x09;C:\\Users\\[YourUserName]\\AppData\\Roaming\\Stellarium\\data\\ssystem\_minor.ini
 
 &#x09;
 
@@ -127,7 +127,7 @@ Once complete, copy the contents of the resulting file, into local Stellarium fi
 
 &#x09;open the Stellarium ini file with a text editor
 
-&#x09;	notepad C:\\Users\\<YourUserName>\\AppData\\Roaming\\Stellarium\\data\\ssystem\_minor.ini
+&#x09;	notepad C:\\Users\\[YourUserName]\\AppData\\Roaming\\Stellarium\\data\\ssystem\_minor.ini
 
 &#x09;navigate to the end
 
