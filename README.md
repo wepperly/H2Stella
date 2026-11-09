@@ -39,12 +39,7 @@ https://ssd.jpl.nasa.gov/horizons/app.html#/
 Once python is installed on you computer, install the required dependences from a terminal window or command line with the following:
 
 
-
-pip install Horizons
-
-
-
-
+pip install astroquery
 
 
 
@@ -66,7 +61,7 @@ launch terminal window (Linux) or cmd window (Windows)
 
 Install dependences:
 
-&#x09;pip install Horizons
+&#x09;pip install astroquery
 
 
 
